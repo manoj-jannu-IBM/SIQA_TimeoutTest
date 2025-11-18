@@ -5,7 +5,7 @@
 
   <!-- nodes -->
 
-<RETRY TIMEOUT="" COUNT="1" BACK-OFF="3600" LOOP-ON="SUCCESS">
+<RETRY TIMEOUT="" COUNT="1" BACK-OFF="1800" LOOP-ON="SUCCESS">
   <COMMENT>sleep for 5 second</COMMENT>
 
   <!-- nodes -->
