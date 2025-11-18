@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">sleepUtils</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgY3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpsb25nIHdhaXRUaW1l
+ID02MDsNCg0KaWYgKGN1cnNvci5maXJzdCgid2FpdFRpbWUiKSkgew0KICAgIHRyeSB7DQogICAg
+ICAgIHdhaXRUaW1lID0gTG9uZy5wYXJzZUxvbmcoY3Vyc29yLmdldFZhbHVlKCkudG9TdHJpbmco
+KSk7DQogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsNCiAgICAgICAgdGhyb3cgbmV3IFNlcnZp
+Y2VFeGNlcHRpb24oIkludmFsaWQgd2FpdFRpbWUgaW5wdXQiKTsNCiAgICB9DQp9DQpjdXJzb3Iu
+ZGVzdHJveSgpOw0KDQp0cnkgew0KICAgIFRocmVhZC5zbGVlcCh3YWl0VGltZSk7DQp9IGNhdGNo
+IChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7DQogICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRp
+b24oIlNsZWVwIGludGVycnVwdGVkIik7DQp9</value>
+</Values>
